@@ -2,3 +2,5 @@
 secrets.env
 contacts.csv
 firstset.xlsx
+__pycache__/
+*.pyc
